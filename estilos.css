@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+   
+    font-size: 18px;
+    color: rgb(3, 3, 3);
+}
+element.style {
+    border-radius: 22%;
+}
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4.25rem;
+    max-width: 262%;
+    height: auto;
+    margin-top: -288px;
+    margin-left: 764px;
+}
+section.col-md-9 {
+    width: 602px;
+    font-size: 20px;
+}
+
+
+
+
+article.col-md-9 {
+    background: aliceblue;
+    color: black;
+}
+
+tbody {
+    background: beige;
+    font-size: larger;
+}
