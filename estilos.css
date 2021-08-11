@@ -9,15 +9,18 @@ element.style {
     border-radius: 22%;
 }
 
+
+
 .img-thumbnail {
-    padding: .25rem;
-    background-color: #fff;
-    border: 1px solid #dee2e6;
-    border-radius: 4.25rem;
-    max-width: 262%;
+    padding: 1.25rem;
+    background-color: #1BF9F5;
+    border: 20px solid #dee2e6;
+    border-radius: 30.25rem;
+    max-width: 310%;
     height: auto;
-    margin-top: -288px;
-    margin-left: 764px;
+    margin-top: -211px;
+    margin-left: 749px;
+    margin-bottom: -96px;
 }
 section.col-md-9 {
     width: 602px;
